@@ -7,6 +7,8 @@ Pubic repo for some useful tampermonkey scripts.
 
 ## Cogeco HomeBox (Sagemcom FAST3896) — Unlock Admin UI
 
+<img width="800" alt="9C8CB164-F6DE-4B21-9248-7A9ADF705138" src="https://github.com/user-attachments/assets/12ec7b6c-af34-4cc1-bc8f-58a1a405521e" />
+
 ### Removes Cogeco's anti-user web UI _defacement_ across all config pages:
 
 - OpenSync/app-managed flags
