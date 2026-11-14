@@ -7,7 +7,7 @@
 // @run-at       document-idle
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/brettwhitty/tampermonkey/refs/heads/main/scripts/sagemcom-fast3896-unspam.local.js
-// @updateURL    https://raw.githubusercontent.com/brettwhitty/tampermonkey/refs/heads/main/scripts/sagemcom-fast3896-unspam.local.js
+// @updateURL    https://raw.githubusercontent.com/brettwhitty/tampermonkey/refs/tags/latest/scripts/sagemcom-fast3896-unspam.local.js
 // ==/UserScript==
 (function () {
   'use strict';
